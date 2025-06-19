@@ -1,10 +1,9 @@
 ### 👋 Hi, I’m Jérôme — developer, toolmaker, and occasional fiction writer.
 
-![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Remote%20only-brightgreen?style=for-the-badge)
-
-![Rust](https://img.shields.io/badge/Rust-000?style=for-the-badge&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Remote%20only-brightgreen?style=flat)
+![Rust](https://img.shields.io/badge/Rust-000?style=flat&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
 With 6+ years of experience, I’ve built internal tools for public-sector organizations like fire departments and tourism offices, as well as systems that help dev teams breathe easier.
 
@@ -43,4 +42,4 @@ I'm currently open to:
 
 ---
 
-> Thanks for stopping by 👋
+> Thanks for stopping by — feel free to explore or get in touch 👋
