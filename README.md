@@ -1,16 +1,46 @@
-## Hi there 👋
+### 👋 Hi, I’m Jérôme — developer, toolmaker, and occasional fiction writer.
 
-<!--
-**JCoussanes/JCoussanes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Remote%20only-brightgreen?style=for-the-badge)
 
-Here are some ideas to get you started:
+![Rust](https://img.shields.io/badge/Rust-000?style=for-the-badge&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+With 6+ years of experience, I’ve built internal tools for public-sector organizations like fire departments and tourism offices, as well as systems that help dev teams breathe easier.
+
+I love well-crafted code, developer-friendly systems, and tools that just work — and stay maintainable.
+My main languages are **Rust**, **Python**, and **TypeScript**.
+
+---
+
+### 🛠️ I like to build
+
+- Backend APIs & CLI tools  
+- Writing & creative tools  
+- Minimal, maintainable systems  
+- Ethical, open-source software when possible
+
+---
+
+### 🚀 Actively looking for new opportunities
+
+I'm currently open to:
+
+- **Remote roles** (or local to Besançon, France 🇫🇷)  
+- **Backend development**, **CLI tooling**, or **developer experience** work  
+- Teams focused on **FOSS**, **green tech**, or **creative ecosystems**
+
+🚫 I tend to avoid roles related to **surveillance tech**, **military**, or **traditional finance**.  
+🤷 Domains like **crypto** or **adtech** aren’t my favorite, but I’m open to them for the right mission.
+
+---
+
+### 📍 Also
+
+- Back from a creative break where I was facilitating writing workshops
+- Gradually mirroring selected personal tools from a self-hosted Forgejo instance to GitHub
+- I commit under the alias `yther` on some projects
+
+---
+
+> Thanks for stopping by 👋
